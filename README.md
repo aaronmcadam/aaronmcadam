@@ -1,7 +1,9 @@
-Hello! I'm Aaron, a skilled product engineer dedicated to delivering value to customers. I prioritise addressing real-world problems over simply adding features and rely on user feedback to fine-tune my design and development strategies.
+Hello! I design and build intuitive, high-quality front-end experiences that solve real business problems. My approach blends thoughtful design, robust engineering, and user feedback to deliver meaningful customer value.
 
-My expertise spans engineering and design, allowing me to approach problems with fresh ideas through continuous learning and growth. I specialise in front-end technologies like TypeScript, React, and Tailwind while also handling back-end tasks when needed. My eye for design helps me collaborate seamlessly with designers, prototyping and experimenting with new ideas both in Figma and in code and integrating these into development work.
+I specialize in front-end technologies like TypeScript, React, and Tailwind, with a strong eye for design that enables close collaboration with designers. I prototype in Figma and rapidly iterate in code to refine ideas.
 
-Testing and feedback are core to my process. I use tools like Playwright and Vitest to ensure the reliability of my code, while system design principles like SOLID and Domain-Driven Design help me build flexible systems designed for change. I'm a big fan of shipping early and often to make sure my work aligns with customer needs.
+Quality and maintainability drive my work. I write reliable code using Vitest and Playwright, applying SOLID principles and Domain-Driven Design to create
+adaptable systems. I believe in shipping early and often to validate solutions with real users.
 
-I'm currently leading design engineering efforts for Superwave (https://www.superwave.com), a product that empowers community managers to connect with members more effectively. My responsibilities include delivering new features, designing, building, and documenting design systems, and mentoring team members in design systems and React refactoring patterns, enhancing team effectiveness and code quality.
+At Buyapowa, I enhance front-end architecture, build scalable UI components, and refine our design system to improve developer efficiency and user experience. I
+also mentor team members in React best practices, ensuring code quality and maintainability across projects.
